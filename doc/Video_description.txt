@@ -1,0 +1,4 @@
+This demonstration demonstrates a handwritten digit recognition application based on Qualcomm CM2290.
+1. Firstly, it was introduced that the motherboard used for development is CM290
+2. Demonstration of PC development environment and simulator demonstration
+3. Demonstrate the operation and operation of the APP on the motherboard CM2290
